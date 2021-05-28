@@ -1,2 +1,2 @@
 # scrapy_project
-scrapy_projects under mentor Uraiz Ali
+scrapy_projects under Sir Uraiz Ali
